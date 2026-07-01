@@ -10,7 +10,6 @@ This project focuses on analyzing mobile sales data using Power BI to understand
 📁 Dataset
 
 The dataset includes:
-
 Mobile Brand
 Mobile Model
 Sales Quantity
@@ -21,6 +20,7 @@ Payment Method
 Region/Location
 Date
 Product Category
+
 📊 Dashboard Features
 KPI Cards
 Total Sales
@@ -39,22 +39,22 @@ Power BI
 Excel
 Power Query
 DAX (Data Analysis Expressions)
+
 💡 Key Insights
 Identified top-performing mobile brands and models
 Analyzed revenue contribution across different categories
 Studied monthly sales trends and business growth patterns
 Compared product performance based on sales and ratings
 Evaluated customer preferences using interactive visualizations
+
 🚀 Project Outcome
-
 This dashboard helps users to:
-
 Track mobile sales performance
 Identify high-demand products
 Compare brand and model performance
 Understand customer buying trends
 Support business decisions through data-driven insights
-📌 Author
 
+
+📌 Author
 Jatin Verma
-COUNT()
