@@ -2,48 +2,59 @@
 <img width="1419" height="797" alt="dashMTD png" src="https://github.com/user-attachments/assets/503c644b-cd5a-41c8-945e-f4b95bfd1e09" />
 <img width="1413" height="803" alt="dashboard_sameperiod png" src="https://github.com/user-attachments/assets/76c68510-4569-4fb6-99c9-f79b1cd05b6d" />
 
-# Mobile-Sales-Dashboard---Power-BI-Project
-This project is an interactive Mobile Sales Dashboard developed using Power BI. The dashboard helps analyze sales performance, transactions, customer ratings, payment methods, and sales trends across different mobile brands and cities.
+📱 Mobile Sales Data Analysis Dashboard (Power BI)
+🔍 Overview
 
+This project focuses on analyzing mobile sales data using Power BI to understand sales performance, revenue trends, customer preferences, and product-level insights. The objective was to create an interactive dashboard that helps businesses monitor sales, identify top-performing products, and make data-driven decisions.
 
-Objectives
-Analyze mobile sales data effectively
-Track KPIs like Total Sales, Transactions, Average Price, and Total Quantity
-Compare current sales with previous year performance
-Create interactive and user-friendly dashboards
-🛠 Technologies Used
-Power BI
-Power Query
-DAX
-Data Modeling
-Excel Dataset
+📁 Dataset
 
-📊 Dashboard Features:
+The dataset includes:
+
+Mobile Brand
+Mobile Model
+Sales Quantity
+Revenue
+Price
+Customer Ratings
+Payment Method
+Region/Location
+Date
+Product Category
+📊 Dashboard Features
 KPI Cards
 Total Sales
-Transactions
-Average Price
-Total Quantity
+Total Revenue
+Total Quantity Sold
+Average Selling Price
+Brand-wise Sales Analysis
+Model-wise Revenue Performance
+Monthly Sales Trend Analysis
+Region-based Sales Insights (Map Visualization)
+Top Selling Mobile Products Analysis
+Customer Rating Analysis
+Interactive Filters (Brand, Model, Region, Date)
+🛠 Tools & Technologies
+Power BI
+Excel
+Power Query
+DAX (Data Analysis Expressions)
+💡 Key Insights
+Identified top-performing mobile brands and models
+Analyzed revenue contribution across different categories
+Studied monthly sales trends and business growth patterns
+Compared product performance based on sales and ratings
+Evaluated customer preferences using interactive visualizations
+🚀 Project Outcome
 
-Interactive Filters:
-Brand
-Mobile Model
-Payment Method
-Month-wise Slicer
+This dashboard helps users to:
 
-Visualizations:
-Sales by City (Map)
-Sales Trend by Month
-Transactions by Payment Method
-Customer Ratings
-Sales by Mobile Model
-Same Period Last Year Analysis
+Track mobile sales performance
+Identify high-demand products
+Compare brand and model performance
+Understand customer buying trends
+Support business decisions through data-driven insights
+📌 Author
 
-📈 DAX Functions Used
-CALCULATE()
-TOTALMTD()
-TOTALQTD()
-TOTALYTD()
-SAMEPERIODLASTYEAR()
-SUM()
+Jatin Verma
 COUNT()
